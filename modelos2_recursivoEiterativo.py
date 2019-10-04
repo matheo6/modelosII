@@ -1,3 +1,8 @@
+##presentado por
+##Luis Miguel castellanos
+##Edwin
+##Mateo Bohorquez
+
 ##def pot(m,n):
 ##    if(n==0):
 ##        return 1
