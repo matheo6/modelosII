@@ -20,6 +20,7 @@
 ##    return div(m-n,n)+1
 ##print(div(60,2))
 
+##potencia iterativo
 ##y=int(input('ingrese el numero '))
 ##x=int(input('ingrese el exponente '))
 ##resultado=y
@@ -27,6 +28,7 @@
 ##    resultado= resultado+y
 ##print(resultado)
 
+##fibonachy
 ##inicial=1
 ##inicial2=1
 ##resultado= inicial
@@ -37,6 +39,7 @@
 ##    inicial2=resultado
 ##print(resultado)
 
+##Division
 y=int(input('ingrese el numero '))
 x=int(input('ingrese el divisor '))
 resultado=0
